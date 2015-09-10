@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+
+#title-headline{
+    color: white;
+    text-align: center;
+    font-family: 'Sigmar One', cursive;
+}
+
+#info{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 10px;
+}
+
+.entry{
+    padding-left: 5px;
+    padding-top: 5px;
+    background-color: darkslategray;
+    width: 210px;
+    color: white;
+    display: inline-block;
+    margin: 5px 5px 5px 5px; 
+    border-radius: 4px;
+}
+
+.comments{
+    display: inline-block;
+}
+
+.author{ 
+    float: right;
+    padding-right: 5px;
+    font-style: italic;
+}
+
+.image{
+    height: 200px;
+    width: 200px;
+}
